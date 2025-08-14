@@ -1,6 +1,5 @@
 *Unificar bases
 **Base de niños
-cd "C:\Users\remli\OneDrive - UDEP\2025\PTT_2025_SN\01 - Base de datos\02 - Seleccionadas"
 
 use RECH0_2024
 merge 1:1 HHID using RECH23_2024
